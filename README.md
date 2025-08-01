@@ -17,7 +17,7 @@ Sentiment analysis is done on the **Amazon Fine Food Reviews** dataset using the
 - **VADER**: A rule-based tool that detects whether a review is positive, negative, or neutral. Works well for short texts.  
 - **RoBERTa**: A powerful deep learning model that understands the meaning of text and predicts sentiment using the `transformers` library.
 
-🔹 **Fake News Detection**  
+## 🔹 Fake News Detection
 Classifies news articles as **fake** or **real** using TF-IDF features and multiple ML models:
 
 - **Logistic Regression**  
